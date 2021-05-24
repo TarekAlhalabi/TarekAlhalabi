@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm a full-stack web developer
-I'm using `Laravel` & `Vuejs` in my projects
+I'm using `Laravel` & `Vuejs` in my projects, 
 You can hire me if you want: _tarekalhalaby946@gmail.com_
 
 <!--
