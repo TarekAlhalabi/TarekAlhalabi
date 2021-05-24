@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm a full-stack web developer
-### I'm using Laravel & Vuejs in my projects
-### You can hire me if you want: tarekalhalaby946@gmail.com
+I'm using `Laravel` & `Vuejs` in my projects
+You can hire me if you want: _tarekalhalaby946@gmail.com_
 
 <!--
 **TarekAlhalabi/TarekAlhalabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
